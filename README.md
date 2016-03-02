@@ -1,4 +1,25 @@
-# CS4900-Kapenga
-CS4900 - Senior Design - Software System Development 1
+Quadratic Equation Solver
+=========================
 
-Quadroots (02/09/2016)- a quadratic equation solver program. Takes input A,b,c and solves for roots of equation.
+Client: CS4900
+
+Authors: Scott Linder, Ryan DePrekel, Justin Lanyon
+
+Directories
+-----------
+
+* spikes/
+
+    Investigations and fast prototypes.
+
+* src/
+
+    Production source code.
+
+* doc/
+
+    Documentation and standards.
+
+* test/
+
+    Functional tests.
